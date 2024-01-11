@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "431869877113",
+    "project_id": "theguardian-news-app",
+    "storage_bucket": "theguardian-news-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431869877113:android:5a71558add3303a3f5eda8",
+        "android_client_info": {
+          "package_name": "com.example.theguardian_news_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWu8lZ4yaKtPoE7iyVJ0lZ6zj7szm0lKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
